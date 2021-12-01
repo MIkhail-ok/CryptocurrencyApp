@@ -1,4 +1,4 @@
-package com.bochkarev.mikhail.cryptocurrencyapp.ui.theme
+package com.bochkarev.mikhail.cryptocurrencyapp.presentation.theme.ui
 
 import androidx.compose.material.MaterialTheme
 import androidx.compose.material.darkColors
